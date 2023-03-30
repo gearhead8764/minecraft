@@ -12,8 +12,7 @@ SERVER=${HOME}/server
 DOWNLOAD=${HOME}/Downloads
 
 # The Minecraft Bedrock Server download page
-# If Minecraft.net ever goes away or changes, this will need to be changed 
-to
+# If Minecraft.net ever goes away or changes, this will need to be changed to
 # the current distribution location.
 BASE_URL='https://minecraft.net/en-us/download/server/bedrock/'
 
